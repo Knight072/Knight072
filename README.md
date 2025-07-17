@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:knight072@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://www.linkedin.com/in/knight072"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Knight072&label=Profile%20views&color=0E75B6&style=flat" alt="Profile Views"/>
+  <a href="mailto:dani.07rojas94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="www.linkedin.com/in/daniel-felipe-rojas-hernández-608345199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </p>
 
 ---
@@ -73,7 +72,7 @@
 ## 🤝 Let’s Connect
 
 - 💬 If you have any question / suggestion, feel free to reach out on **LinkedIn**  
-- 📧 Business inquiries: **knight072@gmail.com**
+- 📧 Business inquiries: **dani.07rojas94@gmail.com**
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” —Cory House</i>
