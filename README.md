@@ -56,12 +56,11 @@
 | Repo | Descripción breve | Tecnologías |
 |------|-------------------|-------------|
 | [**Dapoos**](https://github.com/Knight072/Dapoos) | Motor de juego de mesa multijugador con IA para oponentes; proyecto académico clásico y completo | Java · JavaFX |
-| [**AREP-RAGProyectLAB8**](https://github.com/Knight072/AREP-RAGProyectLAB8) | Servidor **RAG** con FastAPI + LangChain + Chroma que responde preguntas con contexto externo | Python · FastAPI · LangChain · Chroma :contentReference[oaicite:0]{index=0} |
-| [**AREP-LLMLangChainLAB8**](https://github.com/Knight072/AREP-LLMLangChainLAB8) | Micro-servicio de traducción usando LCEL y desplegado con LangServe; incluye playground | Python · LangChain · FastAPI :contentReference[oaicite:1]{index=1} |
+| [**AREP-RAGProyectLAB8**](https://github.com/Knight072/AREP-RAGProyectLAB8) | Servidor RAG con FastAPI + LangChain + Chroma que responde preguntas con contexto externo | Python · FastAPI · LangChain · Chroma |
+| [**AREP-LLMLangChainLAB8**](https://github.com/Knight072/AREP-LLMLangChainLAB8) | Micro-servicio de traducción usando LCEL y desplegado con LangServe; incluye playground | Python · LangChain · FastAPI |
 | [**CVDS7-0.2**](https://github.com/Knight072/CVDS7-0.2) | Aplicación MVC con Spring Boot y Docker; 29 commits, estructura limpia para back-end empresarial | Java · Spring Boot |
 | [**Armario_React1**](https://github.com/Knight072/Armario_React1) | SPA de inventario personal creada con Create React App y flujo CI en GitHub Actions | React · JavaScript |
-| [**ARSW-Redis**](https://github.com/Knight072/ARSW-Redis) | Pizarra colaborativa en tiempo real con WebSocket (Spring) y frontend React/P5.js | Java · Spring Boot · React :contentReference[oaicite:2]{index=2} |
-
+| [**ARSW-Redis**](https://github.com/Knight072/ARSW-Redis) | Pizarra colaborativa en tiempo real con WebSocket (Spring) y frontend React/P5.js | Java · Spring Boot · React |
 
 ---
 
