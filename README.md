@@ -1,9 +1,3 @@
-<!-- Banner (opcional, 1200 × 300 px aprox.) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Knight072/Knight072/main/assets/banner.png" alt="Knight Banner" />
-</p>
-
-<h1 align="center">Hi, I’m Knight 👋</h1>
 
 <p align="center">
   Full-Stack Java&nbsp;Developer · Spring&nbsp;Boot · React · AWS · Docker <br/>
